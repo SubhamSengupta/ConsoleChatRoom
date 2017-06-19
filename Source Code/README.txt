@@ -1,5 +1,5 @@
 This is the source codes to implement a console based chat application.
-It is implemented in Java. Here is two different folder named "Client" and "Server"
+It is implemented in Java. Here is two different folders named "Client" and "Server"
 The source codes in the server folder opens a TCP server on the system and waits for
 clients or the users to join the chat room. In the Client folder the source codes are
 for implementing the client side application which initially connects to the Server
